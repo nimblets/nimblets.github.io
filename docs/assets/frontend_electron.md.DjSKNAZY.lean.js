@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.LxMKKHX0.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"frontend/electron.md","filePath":"frontend/electron.md"}'),r={name:"frontend/electron.md"};function o(a,c,s,d,f,l){return n(),t("div")}const i=e(r,[["render",o]]);export{_ as __pageData,i as default};
